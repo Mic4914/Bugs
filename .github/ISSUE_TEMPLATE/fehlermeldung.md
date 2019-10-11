@@ -1,6 +1,6 @@
 ---
-name: Fehlermeldung
-about: Erstelle eine Meldung zu einem Fehler
+name: Werbungvideos
+about: Werbevideo doppelt oder garnicht vorhanden
 title: ''
 labels: bug
 assignees: ''
@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Beschreibe den Fehler**
-Eine klare und knappe Beschreibung, um welchen Fehler es sich handelt.
+Wenn ich ein Video Schaue ist wenn der Werbeclip vor dem Video ganz normal, wenn aber eine Werbeclip mitten im Video kommt läd dieser garnicht oder es startet mehre mit ein paar Sekunden unterschied (der Ton ist leicht versetzt mehrmals vorhanden Kommt besonder häufig bei der BK Werbung vor).
 
 **Reproduktion**
 Schritte um den Fehler zu reproduzieren:
@@ -23,9 +23,9 @@ Wenn nötig, Screenshot anfügen, welche das Problem veranschaulichen.
 (*Screenshots per Drag & Drop hier einfügen*)
 
 **Desktop (bitte die Informationen vervollständigen):**
- - Betriebssystem: [z.B. Windows]
- - Browser: [z.B. Chrome, Safari]
- - Browser-Version: [z.B. 22]
+ - Betriebssystem: Windows 10
+ - Browser: Mozilla Firefox
+ - Browser-Version: 69.0.2 64 Bit
 
 **Smartphone (bitte die Informationen vervollständigen):**
  - Gerät: [z.B. iPhone6]
